@@ -1,0 +1,7 @@
+- Jquery is cross browser.
+- Jquery is extensible.
+- Jquery has simplifies and rich AJAX support.
+- Excellent documentation.
+
+
+- simplifies document traversing, event handling, animating and Ajax interaction for rapid web development.
